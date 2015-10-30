@@ -1,0 +1,64 @@
+body {
+	background-color:#399;
+	font-family:monospace;
+	margin:15px;
+	font-size:25px;
+}
+a {
+	color: #000;
+}
+#header {
+	padding:15px;
+	border: solid #FFF;
+	border-radius:5px;
+	font-size:40px;
+	max-width:480px;
+	margin-left:auto;
+	margin-right:auto;
+}
+#timetable {
+	margin-top:15px;
+	padding:15px;
+	border: solid #FFF;
+	border-radius:5px;
+	max-width:480px;
+	margin-left:auto;
+	margin-right:auto;
+}
+#facebook-page {
+	margin-top:15px;
+	padding:15px;
+	border: solid #FFF;
+	border-radius:5px;
+	max-width:480px;
+	margin-left:auto;
+	margin-right:auto;
+}
+#moodle {
+	margin-top:15px;
+	padding:15px;
+	border: solid #FFF;
+	border-radius:5px;
+	max-width:480px;
+	margin-left:auto;
+	margin-right:auto;
+}
+#absence-dial {
+	margin-top:255px;
+	padding:15px;
+	border: solid #FFF;
+	border-radius:5px;
+	background-color:#F33;
+	max-width:480px;
+	margin-left:auto;
+	margin-right:auto;
+}
+#back {
+	margin-top:10px;
+	padding:15px;
+	border: solid #FFF;
+	border-radius:5px;
+	max-width:480px;
+	margin-left:auto;
+	margin-right:auto;
+}
